@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  LWOSSURLSplice
+//  OSSURLStitchingDemo
 //
-//  Created by LeeWong on 2018/10/28.
-//  Copyright © 2018 LeeWong. All rights reserved.
+//  Created by LeeWong on 2018/10/20.
+//  Copyright © 2018年 ws. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
