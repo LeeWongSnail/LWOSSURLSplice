@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		09E5E26F6C78FD325D0ECF82 /* libPods-LWOSSURLSpliceTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D3514136C29995010D51A15B /* libPods-LWOSSURLSpliceTests.a */; };
+		20E5835DA0BFB9A8F51DD2BC /* libPods-LWOSSURLSplice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7676B4DEDB02D81D13EDA811 /* libPods-LWOSSURLSplice.a */; };
+		B5DF7F81B83F6FB57422DB6D /* libPods-LWOSSURLSpliceUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD367615BD554A23E76E0B8A /* libPods-LWOSSURLSpliceUITests.a */; };
 		EB29340221856F8600C47407 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EB29340121856F8600C47407 /* AppDelegate.m */; };
 		EB29340521856F8600C47407 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB29340421856F8600C47407 /* ViewController.m */; };
 		EB29340821856F8600C47407 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB29340621856F8600C47407 /* Main.storyboard */; };
@@ -35,6 +38,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		122E77BB92ED5A387EBC1950 /* Pods-LWOSSURLSpliceTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWOSSURLSpliceTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LWOSSURLSpliceTests/Pods-LWOSSURLSpliceTests.release.xcconfig"; sourceTree = "<group>"; };
+		7676B4DEDB02D81D13EDA811 /* libPods-LWOSSURLSplice.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LWOSSURLSplice.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8643C1E19ED71FF59F970692 /* Pods-LWOSSURLSpliceUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWOSSURLSpliceUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LWOSSURLSpliceUITests/Pods-LWOSSURLSpliceUITests.release.xcconfig"; sourceTree = "<group>"; };
+		8CC1F86350F0BEE88DD26DAC /* Pods-LWOSSURLSplice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWOSSURLSplice.release.xcconfig"; path = "Pods/Target Support Files/Pods-LWOSSURLSplice/Pods-LWOSSURLSplice.release.xcconfig"; sourceTree = "<group>"; };
+		B1F6C7F86B02AB6481A1DA26 /* Pods-LWOSSURLSpliceTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWOSSURLSpliceTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LWOSSURLSpliceTests/Pods-LWOSSURLSpliceTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B8792EE7C31E70F17676EC94 /* Pods-LWOSSURLSpliceUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWOSSURLSpliceUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LWOSSURLSpliceUITests/Pods-LWOSSURLSpliceUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		BAA687D0CDDD27513D8625F7 /* Pods-LWOSSURLSplice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWOSSURLSplice.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LWOSSURLSplice/Pods-LWOSSURLSplice.debug.xcconfig"; sourceTree = "<group>"; };
+		D3514136C29995010D51A15B /* libPods-LWOSSURLSpliceTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LWOSSURLSpliceTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB2933FD21856F8600C47407 /* LWOSSURLSplice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LWOSSURLSplice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB29340021856F8600C47407 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EB29340121856F8600C47407 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +62,7 @@
 		EB29342021856F8700C47407 /* LWOSSURLSpliceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LWOSSURLSpliceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB29342421856F8700C47407 /* LWOSSURLSpliceUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LWOSSURLSpliceUITests.m; sourceTree = "<group>"; };
 		EB29342621856F8700C47407 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD367615BD554A23E76E0B8A /* libPods-LWOSSURLSpliceUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LWOSSURLSpliceUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20E5835DA0BFB9A8F51DD2BC /* libPods-LWOSSURLSplice.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09E5E26F6C78FD325D0ECF82 /* libPods-LWOSSURLSpliceTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +86,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5DF7F81B83F6FB57422DB6D /* libPods-LWOSSURLSpliceUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4792DC0FE901C50BEC028E44 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BAA687D0CDDD27513D8625F7 /* Pods-LWOSSURLSplice.debug.xcconfig */,
+				8CC1F86350F0BEE88DD26DAC /* Pods-LWOSSURLSplice.release.xcconfig */,
+				B1F6C7F86B02AB6481A1DA26 /* Pods-LWOSSURLSpliceTests.debug.xcconfig */,
+				122E77BB92ED5A387EBC1950 /* Pods-LWOSSURLSpliceTests.release.xcconfig */,
+				B8792EE7C31E70F17676EC94 /* Pods-LWOSSURLSpliceUITests.debug.xcconfig */,
+				8643C1E19ED71FF59F970692 /* Pods-LWOSSURLSpliceUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		5D16661B2C4CEB3D817A06CE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7676B4DEDB02D81D13EDA811 /* libPods-LWOSSURLSplice.a */,
+				D3514136C29995010D51A15B /* libPods-LWOSSURLSpliceTests.a */,
+				FD367615BD554A23E76E0B8A /* libPods-LWOSSURLSpliceUITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		EB2933F421856F8600C47407 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +123,8 @@
 				EB29341821856F8700C47407 /* LWOSSURLSpliceTests */,
 				EB29342321856F8700C47407 /* LWOSSURLSpliceUITests */,
 				EB2933FE21856F8600C47407 /* Products */,
+				4792DC0FE901C50BEC028E44 /* Pods */,
+				5D16661B2C4CEB3D817A06CE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -139,6 +179,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EB29342921856F8700C47407 /* Build configuration list for PBXNativeTarget "LWOSSURLSplice" */;
 			buildPhases = (
+				A3D6D80F4E940F876213806D /* [CP] Check Pods Manifest.lock */,
 				EB2933F921856F8600C47407 /* Sources */,
 				EB2933FA21856F8600C47407 /* Frameworks */,
 				EB2933FB21856F8600C47407 /* Resources */,
@@ -156,6 +197,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EB29342C21856F8700C47407 /* Build configuration list for PBXNativeTarget "LWOSSURLSpliceTests" */;
 			buildPhases = (
+				AF9BE5364823D4FA20A87251 /* [CP] Check Pods Manifest.lock */,
 				EB29341121856F8700C47407 /* Sources */,
 				EB29341221856F8700C47407 /* Frameworks */,
 				EB29341321856F8700C47407 /* Resources */,
@@ -174,6 +216,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EB29342F21856F8700C47407 /* Build configuration list for PBXNativeTarget "LWOSSURLSpliceUITests" */;
 			buildPhases = (
+				B509625E6071DDFE93145D21 /* [CP] Check Pods Manifest.lock */,
 				EB29341C21856F8700C47407 /* Sources */,
 				EB29341D21856F8700C47407 /* Frameworks */,
 				EB29341E21856F8700C47407 /* Resources */,
@@ -256,6 +299,63 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A3D6D80F4E940F876213806D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LWOSSURLSplice-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AF9BE5364823D4FA20A87251 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LWOSSURLSpliceTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B509625E6071DDFE93145D21 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LWOSSURLSpliceUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		EB2933F921856F8600C47407 /* Sources */ = {
@@ -433,14 +533,12 @@
 		};
 		EB29342A21856F8700C47407 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BAA687D0CDDD27513D8625F7 /* Pods-LWOSSURLSplice.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = LWOSSURLSplice/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lee.LWOSSURLSplice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -449,14 +547,12 @@
 		};
 		EB29342B21856F8700C47407 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8CC1F86350F0BEE88DD26DAC /* Pods-LWOSSURLSplice.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = LWOSSURLSplice/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lee.LWOSSURLSplice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -465,15 +561,12 @@
 		};
 		EB29342D21856F8700C47407 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B1F6C7F86B02AB6481A1DA26 /* Pods-LWOSSURLSpliceTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = LWOSSURLSpliceTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lee.LWOSSURLSpliceTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -483,15 +576,12 @@
 		};
 		EB29342E21856F8700C47407 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 122E77BB92ED5A387EBC1950 /* Pods-LWOSSURLSpliceTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = LWOSSURLSpliceTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lee.LWOSSURLSpliceTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -501,14 +591,11 @@
 		};
 		EB29343021856F8700C47407 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B8792EE7C31E70F17676EC94 /* Pods-LWOSSURLSpliceUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = LWOSSURLSpliceUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lee.LWOSSURLSpliceUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -518,14 +605,11 @@
 		};
 		EB29343121856F8700C47407 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8643C1E19ED71FF59F970692 /* Pods-LWOSSURLSpliceUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = LWOSSURLSpliceUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lee.LWOSSURLSpliceUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
